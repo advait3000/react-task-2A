@@ -1,0 +1,40 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: normal;
+}
+.contact-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .form-container {
+    width: 600px;
+    border: 2px solid black;
+    padding: 20px;
+  }
+  
+  .form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    width: 50%;
+    margin-bottom: 10px;
+
+  }
+  .form-group1 {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+  
+  input,
+  select {
+    width: 80%;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    margin-top: 7px;
+  }
